@@ -1,6 +1,6 @@
 This is the API project
 members 
-Gerald
+Geraldine
 Fatma
 Sianwa
 Sagini
